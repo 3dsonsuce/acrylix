@@ -1,7 +1,5 @@
 Acrylix is a universal multi-game script that compiles simple yet powerful code into 1 GUI.
-The main script for KFC BUCKET since 2022, led by its owner tomfooler.
-
-Created with the help of many scripters, such as Thepresent, Nekai, kfcmare, and many more.
+I own this project. Please do not use this project elsewhere in content you create without my permission.
 
 Script:
 loadstring(game:HttpGet('https://github.com/3dsonsuce/acrylix/raw/main/Acrylix'))() 
